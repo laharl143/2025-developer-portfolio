@@ -9,7 +9,7 @@ function Navbar() {
       <div className="flex items-center justify-between py-5">
         <div className="flex items-center flex-shrink-0">
           <Link
-            href="/"
+            href=""
             className=" text-[#16f2b3] text-3xl font-bold">
             ED
           </Link>
